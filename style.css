@@ -1,6 +1,6 @@
 body {
     /* background: url('images/B1.jpeg') no-repeat center center fixed; */
-    background-color: #1c448e;
+    background-color: #B9B9B9;
     background-size: cover;
     margin: 0;
     font-family: Arial, sans-serif;
@@ -28,7 +28,7 @@ h1 {
 }
 
 button {
-    background-color: #fccb06;
+    background-color: #1e8449;
     color: #fff;
     padding: 10px 20px;
     font-size: 18px;
@@ -38,7 +38,7 @@ button {
 }
 
 button:hover {
-    background-color: #1e8449;
+    background-color: #fccb06;
 }
 
 .instructions {
@@ -73,7 +73,7 @@ p {
 }
 footer {
     text-align: center;
-     background-color: #fccb06;
+    background-color: #1e8449;
      border-radius: 20px 0px 0px 20px;
       color: white;
        padding: 5px;
